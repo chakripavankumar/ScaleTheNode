@@ -12,6 +12,9 @@ if (!fs.existsSync(dir)) {
   fs.mkdirSync(dir);
 }
 
+console.log("Logs will be stored in:", dir);
+console.log("Absolute path:", path.resolve(dir));
+
 const logLevel = environment === "development" ? "debug" : "warn";
 
 const dailyRotateFile = new DailyRotateFile({

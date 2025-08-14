@@ -24,10 +24,6 @@ app.use("/api/todo", todoRoutes);
 
 app.use(errorHandler);
 
-app
-  .listen(port, () => {
-    Logger.info(`server running on port : ${port}`);
-  })
-  .on("error", (e) => Logger.error(e));
-
-  Logger.warn("Logger initialized!");
+app.listen(port, () => {
+  console.log("server is up and running");
+});

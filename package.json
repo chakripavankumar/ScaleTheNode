@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-    "start": "node dist/src/server.js",
-    "dev": "tsc-watch --onSuccess \"node dist/src/server.js\"",
-    "test": "NODE_ENV=test vitest --run",
+    "start": "node dist/server.js",
+    "dev": "tsc-watch --onSuccess \"node dist/server.js\"",
     "build": "tsc",
     "create:apikey": "node dist/database/seedApiKey.js"
   },
