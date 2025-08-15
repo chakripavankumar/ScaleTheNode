@@ -1,0 +1,27 @@
+{"level":"debug","message":"Connecting to MongoDB at: mongodb://admin:secret@localhost:27017/todo?authSource=admin","timestamp":"2025-08-15T13:33:43.203Z"}
+{"level":"debug","message":"Mongoose default connection open to mongodb://admin:secret@localhost:27017/todo?authSource=admin","timestamp":"2025-08-15T13:33:43.291Z"}
+{"level":"info","message":"✅ Mongoose connection established","timestamp":"2025-08-15T13:33:43.292Z"}
+{"level":"debug","message":"Connecting to MongoDB at: mongodb://admin:secret@localhost:27017/todo?authSource=admin","timestamp":"2025-08-15T13:34:19.574Z"}
+{"level":"debug","message":"Mongoose default connection open to mongodb://admin:secret@localhost:27017/todo?authSource=admin","timestamp":"2025-08-15T13:34:19.636Z"}
+{"level":"info","message":"✅ Mongoose connection established","timestamp":"2025-08-15T13:34:19.637Z"}
+{"level":"debug","message":"Connecting to MongoDB at: mongodb://admin:secret@localhost:27017/todo?authSource=admin","timestamp":"2025-08-15T13:34:21.308Z"}
+{"level":"debug","message":"Mongoose default connection open to mongodb://admin:secret@localhost:27017/todo?authSource=admin","timestamp":"2025-08-15T13:34:21.380Z"}
+{"level":"info","message":"✅ Mongoose connection established","timestamp":"2025-08-15T13:34:21.381Z"}
+{"level":"debug","message":"Connecting to MongoDB at: mongodb://admin:secret@localhost:27017/todo?authSource=admin","timestamp":"2025-08-15T13:34:23.713Z"}
+{"level":"debug","message":"Mongoose default connection open to mongodb://admin:secret@localhost:27017/todo?authSource=admin","timestamp":"2025-08-15T13:34:23.757Z"}
+{"level":"info","message":"✅ Mongoose connection established","timestamp":"2025-08-15T13:34:23.758Z"}
+{"level":"debug","message":"Connecting to MongoDB at: mongodb://admin:secret@localhost:27017/todo?authSource=admin","timestamp":"2025-08-15T13:34:26.243Z"}
+{"level":"debug","message":"Mongoose default connection open to mongodb://admin:secret@localhost:27017/todo?authSource=admin","timestamp":"2025-08-15T13:34:26.289Z"}
+{"level":"info","message":"✅ Mongoose connection established","timestamp":"2025-08-15T13:34:26.290Z"}
+{"level":"debug","message":"Connecting to MongoDB at: mongodb://admin:secret@localhost:27017/todo?authSource=admin","timestamp":"2025-08-15T13:34:29.627Z"}
+{"level":"debug","message":"Mongoose default connection open to mongodb://admin:secret@localhost:27017/todo?authSource=admin","timestamp":"2025-08-15T13:34:29.672Z"}
+{"level":"info","message":"✅ Mongoose connection established","timestamp":"2025-08-15T13:34:29.673Z"}
+{"level":"debug","message":"Connecting to MongoDB at: mongodb://admin:secret@localhost:27017/todo?authSource=admin","timestamp":"2025-08-15T13:34:32.823Z"}
+{"level":"debug","message":"Mongoose default connection open to mongodb://admin:secret@localhost:27017/todo?authSource=admin","timestamp":"2025-08-15T13:34:32.869Z"}
+{"level":"info","message":"✅ Mongoose connection established","timestamp":"2025-08-15T13:34:32.870Z"}
+{"level":"debug","message":"Connecting to MongoDB at: mongodb://admin:secret@localhost:27017/todo?authSource=admin","timestamp":"2025-08-15T13:34:35.283Z"}
+{"level":"debug","message":"Mongoose default connection open to mongodb://admin:secret@localhost:27017/todo?authSource=admin","timestamp":"2025-08-15T13:34:35.328Z"}
+{"level":"info","message":"✅ Mongoose connection established","timestamp":"2025-08-15T13:34:35.329Z"}
+{"level":"debug","message":"Connecting to MongoDB at: mongodb://admin:secret@localhost:27017/todo?authSource=admin","timestamp":"2025-08-15T13:34:40.118Z"}
+{"level":"debug","message":"Mongoose default connection open to mongodb://admin:secret@localhost:27017/todo?authSource=admin","timestamp":"2025-08-15T13:34:40.162Z"}
+{"level":"info","message":"✅ Mongoose connection established","timestamp":"2025-08-15T13:34:40.163Z"}
